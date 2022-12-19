@@ -8,7 +8,7 @@ module.exports = {
         {
             files: ["*.js"],
             excludedFiles: "babel.config.js",
-          },
+        },
     ],
     "parserOptions": {
         "ecmaVersion": "latest",
