@@ -2,9 +2,9 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "dev": "node 2-main.js"
+    "dev": "node 101-main.js"
   },
-  "author": "",
+  "author": "Tibebe Solomon",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.20.5",
