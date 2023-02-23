@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/sapencio/alx-backend-javascript/blob/main/0x06-unittests_in_js/README.md",
   "devDependencies": {
-    "mocha": "^10.2.0"
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "sinon": "^15.0.1"
   }
 }
