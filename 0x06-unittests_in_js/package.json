@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/sapencio/alx-backend-javascript/issues"
   },
-  "homepage": "https://github.com/sapencio/alx-backend-javascript#readme",
+  "homepage": "https://github.com/sapencio/alx-backend-javascript/blob/main/0x06-unittests_in_js/README.md",
   "devDependencies": {
     "mocha": "^10.2.0"
   }
